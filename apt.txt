@@ -1,0 +1,7 @@
+openssh-sftp-server
+rsync
+vim
+procps
+net-tools
+screen
+
